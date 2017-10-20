@@ -19,3 +19,7 @@ p {
   color: #FFF;
   font-family: Helvetica;
 }
+
+img {
+  width: 300px;
+}
