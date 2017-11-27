@@ -37,6 +37,10 @@ li a:hover:not(.active) {
     background-color: #4CAF50;
 }
 
+.logo {
+   
+}
+
 h2 {
   color: #FFF;
   font-family: Georgia;
@@ -49,5 +53,5 @@ p {
 }
 
 img {
-  width: 400px;
+  width: 300px;
 }
