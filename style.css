@@ -37,8 +37,10 @@ li a:hover:not(.active) {
     background-color: #4CAF50;
 }
 
-.logo {
-    width: 600px;
+.about {
+   -webkit-column-count: 2; /* Chrome, Safari, Opera */
+   -moz-column-count: 2; /* Firefox */
+   column-count: 2;
 }
 
 h2 {
